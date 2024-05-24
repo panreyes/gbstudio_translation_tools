@@ -1,5 +1,5 @@
 # GBStudio translation tools v0.0.0.1
-Created for preparing the GBStudio "A Cat & His Boy" for translation.
+Created for translating the GBStudio game "A Cat & His Boy".
 
 Thanks to GBStudio saving the whole project as a JSON file, we can easily extract all the texts and replace to and from a CSV file.
 
